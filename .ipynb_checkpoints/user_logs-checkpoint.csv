@@ -1,0 +1,2 @@
+timestamp,city,latitude,longitude,today_status,tomorrow_status,weekday,weather_desc,temperature,mood,voice_tone,movie_selected
+2025-11-09 05:03:29.939915,Seoul,37.566,126.9784,Weekend,Weekday,Sunday,broken clouds,10.76,neutral,neutral,"""Train to Busan"""

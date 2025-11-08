@@ -1,0 +1,4 @@
+timestamp,city,latitude,longitude,today_status,tomorrow_status,weekday,weather_desc,temperature,mood,voice_tone,movie_selected
+2025-11-09 05:26:11.373910,Seoul,37.566,126.9784,Weekend,Weekday,Sunday,overcast clouds,13.61,neutral,neutral,"""Mother"""
+2025-11-09 05:50:38.837019,Seoul,37.566,126.9784,Weekend,Weekday,Sunday,broken clouds,10.76,neutral,neutral,Memories of Murder
+2025-11-09 05:55:47.337354,Seoul,37.566,126.9784,Weekend,Weekday,Sunday,broken clouds,10.76,happy,neutral,"""Minari"""
